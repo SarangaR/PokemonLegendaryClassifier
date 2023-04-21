@@ -20,4 +20,4 @@ jupyter src/PokemonAnalysis.ipynb
 ```
 
 ## Exploratory Data Analaysis
-The research document detailing the data analysis performed on the pokemon can be found at ```src/PokemonExploratoryDataAnalaysis.pdf```
+The research document detailing the data analysis performed on the pokemon can be found at ```src/PokemonExploratoryDataAnalaysis.pdf```.
